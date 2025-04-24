@@ -5,6 +5,7 @@
 ![](https://github.com/aamirahmed1978/skills-introduction-to-github/actions/workflows/2-commit-a-file.yml/badge.svg)
 ![](https://github.com/aamirahmed1978/skills-introduction-to-github/actions/workflows/3-open-a-pull-request.yml/badge.svg)
 ![](https://github.com/aamirahmed1978/skills-introduction-to-github/actions/workflows/4-merge-your-pull-request.yml/badge.svg)
+![](https://github.com/aamirahmed1978/skills-introduction-to-github/actions/workflows/1-create-a-middle-eastern-look-georgeos-girl.yml/badge.svg)
 
 _Get started using GitHub in less than an hour._
 
